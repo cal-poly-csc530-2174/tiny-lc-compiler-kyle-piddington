@@ -1,0 +1,6 @@
+Kyle Piddington
+CPE 530
+Usage:
+python3 lambdaCalculus.py <input file>
+
+Outputs a file named <output file>.py. Final program prints the ending variable
